@@ -1,0 +1,17 @@
+//what is git and why is it important
+Git is a distributed version control system that allows developers to track changes to their code over time.
+It is important because it helps developers achieve the following
+1. Collaboration: Git allows multiple developers to work on the same project at the same time.
+2. Version Control: Git allows developers to track changes to their code over time, making it easy to revert to previous versions if needed.
+3. Branching: Git allows developers to work on different features or fixes in separate branches, making it easy to merge changes back into the main codebase.
+4. Remote Repositories: Git allows developers to push their code to remote repositories, making it easy to collaborate with other developers and deploy code to servers.
+
+
+//What are the various steps 
+/ commands you’ll use to create a frontend/backend repository and push your project to the github repository created
+1. Create a new repository on GitHub
+2. Initialize a new Git repository on your local machine
+3. Add your project files to the Git repository
+4. Commit your changes to the Git repository
+5. Add a remote repository to your local Git repository
+6. Push your changes to the remote repository on GitHub to the main branch
